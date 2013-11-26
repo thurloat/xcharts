@@ -100,6 +100,11 @@
         "x": "default tick value"
       }
     },
+    "showAllXTicks": {
+      "type": "boolean",
+      "default": "false",
+      "desc": "Whether or not to force show all x axis labels"
+    },
     "tickHintY": {
       "type": "Number",
       "default": 10,
