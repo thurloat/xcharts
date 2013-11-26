@@ -59,6 +59,7 @@
           paddingBottom: 20,
           paddingLeft: 60,
           tickHintX: 10,
+          showAllXTicks: false,
           tickHintY: 10,
           timing: 750,
           interpolation: 'monotone',
